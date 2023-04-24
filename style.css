@@ -1,0 +1,82 @@
+body{
+    background-color: grey;
+}
+div{
+    height: 400px;
+    width: 300px;
+    margin: auto;
+    margin-top: 50px;
+    border: 1px solid ;
+    border-top-left-radius: 35px;
+    border-bottom-right-radius: 35px;
+    background-color: mintcream;
+}
+hr{
+    width: 200px;
+    color: gray;
+}
+.grey{
+    margin-bottom: 5px;
+    display: inline-block;
+    color: black;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 30px;
+}
+.orange{
+    margin-bottom: 5px;
+    display:inline-block;
+    color: chocolate;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 30px;
+}
+label{
+    font-weight: 500;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    display: block;
+    padding: 10px;
+    padding-left: 2px;
+    margin-left: 50px;
+    margin-bottom: 1px;
+}
+input{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin-left: 50px;
+    box-shadow: 2px 2px 2px 2px  gray;
+}
+.name{
+    background-image:url(images/name.png);
+    background-size: 20px;
+    background-repeat: no-repeat;
+    padding-left: 30px;
+}
+.email{
+    background-image:url(images/email.png);
+    background-size: 20px;
+    background-repeat: no-repeat;
+    padding-left: 30px;    
+}
+.contact{
+    background-image:url(images/contact.png);
+    background-size: 20px;
+    background-repeat: no-repeat;
+    padding-left: 30px;
+}
+.address{
+    background-image:url(images/address.png);
+    background-size: 20px;
+    background-repeat: no-repeat;
+    padding-left: 30px;
+}
+button{
+    display: block;
+    margin: auto;
+    background-color: chocolate;
+    color: whitesmoke;
+    margin-top: 10px;
+    padding: 5px;
+    border: 1px solid chocolate ;
+    border-radius: 1px ;
+}
+.button:hover{
+    
+}
